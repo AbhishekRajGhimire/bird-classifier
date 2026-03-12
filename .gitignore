@@ -1,4 +1,7 @@
-birds_data/
-model_checkpoint/
+birds_data/*
+!birds_data/.gitkeep
+
+model_checkpoint/*
+!model_checkpoint/.gitkeep
 .ipynb_checkpoints/
 
